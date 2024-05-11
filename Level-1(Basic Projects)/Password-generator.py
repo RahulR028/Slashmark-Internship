@@ -1,3 +1,24 @@
+This Python script generates secure, random passwords for you!
+
+Features:
+
+Generates a specified number of passwords (default: 1)
+*Allows customization of password length for each password (default: 8 characters)
+*Creates passwords with a mix of lowercase letters, numbers, and uppercase letters
+*User-friendly interface for choosing password lengths
+
+How to Use:
+
+1.Run the script.
+2.Enter the desired number of passwords (press Enter for default: 1).
+3.For each password, you can choose a specific length (press Enter for default: 8 characters).
+4.The script will generate and display the requested passwords.
+    
+Security:
+
+This script uses random number generation to create unpredictable passwords.
+The script encourages strong passwords by including a mix of character types (lowercase, uppercase, numbers).
+
 import random
 
 def generate_password(pw_length):

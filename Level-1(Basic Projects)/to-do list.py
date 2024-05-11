@@ -1,3 +1,19 @@
+This Python script allows you to manage your to-do list.
+
+1.Add tasks
+2.Mark tasks as completed
+3.Remove tasks
+4.View your current to-do list
+
+Features:
+
+*User-friendly interface with clear options
+*Marks completed tasks for easy identification
+*Error handling for invalid user input
+*This script is a great tool for staying organized and keeping track of your daily tasks.
+                           
+                           
+                           
 # Define an empty list to store tasks
 tasks = []
 

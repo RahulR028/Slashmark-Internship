@@ -1,3 +1,22 @@
+Number Guessing Game in Python
+This Python script is a fun, interactive guessing game where you try to guess a number between 1 and 200 chosen by the computer.
+
+
+Features:
+
+*User-friendly introduction with name prompt
+*Range-limited guesses (1-200) with informative messages for invalid input
+*Hints for guesses that are too high or too low
+*Win/lose message with the number of attempts
+*How to Play:
+
+Run the script.
+1.Enter your name when prompted.
+2.The script will inform you it's thinking of a number.
+3.Try to guess the number within 6 attempts.
+4.The script will provide hints after each guess to help you hone in on the correct number.
+5.You win if you guess the number correctly!
+
 import random
 import time
 

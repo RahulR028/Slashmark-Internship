@@ -1,4 +1,4 @@
-//This Python voice assistant application uses speech recognition and text-to-speech capabilities to perform various tasks based on user voice commands. It leverages the speech_recognition and pyttsx3 libraries for speech input and output, respectively.
+"""//This Python voice assistant application uses speech recognition and text-to-speech capabilities to perform various tasks based on user voice commands. It leverages the speech_recognition and pyttsx3 libraries for speech input and output, respectively.
 
 Features
 1.Open Websites: Opens YouTube or Google upon request.
@@ -10,7 +10,7 @@ Features
   
 Usage
 Run the script and interact with the assistant by giving voice commands such as "open YouTube," "what's the time," or "play music."//
-
+"""
 
 
 

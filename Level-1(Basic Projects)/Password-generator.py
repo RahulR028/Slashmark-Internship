@@ -1,4 +1,4 @@
-This Python script generates secure, random passwords for you!
+"""This Python script generates secure, random passwords for you!
 
 Features:
 
@@ -20,7 +20,7 @@ This script uses random number generation to create unpredictable passwords.
 The script encourages strong passwords by including a mix of character types (lowercase, uppercase, numbers).
 
 
-
+"""
 
 
 

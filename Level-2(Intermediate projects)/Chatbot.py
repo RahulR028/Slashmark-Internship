@@ -1,4 +1,4 @@
-//This code implements a basic chatbot named Bard. It can greet users, respond to simple questions, and engage in casual conversation.//
+"""//This code implements a basic chatbot named Bard. It can greet users, respond to simple questions, and engage in casual conversation.//
 
 Features:
 
@@ -33,6 +33,7 @@ Further Development:
 Integrating libraries for real-time information access (weather, news).
 Adding functionalities like searching recipes or finding local events.
 Expanding knowledge base on various topics.*/
+"""
 
 def greet(user_input):
   """Greets the user based on input"""

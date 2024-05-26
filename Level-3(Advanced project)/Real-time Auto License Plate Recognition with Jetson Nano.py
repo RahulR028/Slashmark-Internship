@@ -1,4 +1,4 @@
-//This repository contains a Python script for performing object detection on a live camera stream using NVIDIA's Jetson platform. The script leverages Jetson Inference and Jetson Utils libraries to capture video input, detect objects using a pre-trained deep neural network, and display the results.
+"""This repository contains a Python script for performing object detection on a live camera stream using NVIDIA's Jetson platform. The script leverages Jetson Inference and Jetson Utils libraries to capture video input, detect objects using a pre-trained deep neural network, and display the results.
 
 Requirements:
 1.NVIDIA Jetson device
@@ -23,7 +23,7 @@ Troubleshooting:
 *Ensure your Jetson device has the latest JetPack installed.
 *Check the Jetson Inference documentation for additional setup and configuration help.
 *Verify that your input URI and output URI are correctly specified and accessible.
-
+"""
 
  
 import jetson.inference
